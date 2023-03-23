@@ -1,10 +1,15 @@
-# Contador em Javascript
-Contador que aumenta, diminui e reseta.
-E Quando o nº está negativo a cor muda pra vermelho
-
-Confira!
-https://thaynalp.github.io/Contador-em-JS/
+## Contador em Javascript
 
 
+### :heavy_plus_sign: Aumenta 
+### :heavy_minus_sign: Diminui 
+### :arrows_counterclockwise: Reseta
 
-https://github.com/thaynalp/Contador-em-JS/issues/1#issue-1637795709
+
+
+**E Quando o nº está negativo a cor muda pra vermelho**
+
+
+
+
+![contador img github](https://user-images.githubusercontent.com/112887006/227281622-551cd341-073b-4932-8bc8-91e6228bb1e7.png)
