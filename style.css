@@ -1,0 +1,23 @@
+*{
+    margin:0;
+    box-sizing: border-box;
+}
+
+body{
+    min-height: 100vh; /* 100% do tamanho da pág*/
+    background-color: black;
+    color: white;
+    display: grid;  /*para centralizar de forma fácil! */
+    place-items: center;
+}
+
+section{
+    background: rgba(255, 255, 255, 0.2); /*0.2 = 20% de branco*/
+    padding: 20px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+p{
+    font-size: 100px;
+}
