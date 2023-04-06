@@ -12,7 +12,7 @@ body{
 }
 
 section{
-    background: rgba(148, 133, 216, 0.2) /*0.2 = 20% de branco*/
+    background: rgba(148, 133, 216, 0.2); /*0.2 = 20% de branco*/
     padding: 20px;
     border-radius: 5px;
     text-align: center;
