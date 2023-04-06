@@ -12,7 +12,7 @@
 
 
 
-![contador img github](https://user-images.githubusercontent.com/112887006/227281622-551cd341-073b-4932-8bc8-91e6228bb1e7.png)
+<p align='center' width='100'>https://user-images.githubusercontent.com/112887006/230507036-9e957bce-b751-475c-89b5-994b4d7e3913.mp4</p>
 
 
 
