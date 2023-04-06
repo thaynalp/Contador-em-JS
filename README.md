@@ -7,7 +7,7 @@
 
 
 
-**E Quando o nº está negativo a cor muda pra vermelho**
+### E Quando o nº está negativo a cor muda pra vermelho!
 
 
 
@@ -16,10 +16,10 @@
 
 
 
-Obs:
 
+
+### Meu desafio implementado nesse projeto: colocar a função de resetar e quando o contador estivesse com números negativos, colocar em vermelho. E organizar melhor as chamadas das funções
+
+Obs:
 O contador foi extraído de uma vídeo-aula no Youtube.
 Inicialmente ele tinha 2 funções: aumentar e diminuir.
-
-**Meu desafio implementado nesse projeto foi colocar a função de resetar, 
- e quando o contador estivesse com números negativos, colocar em vermelho. E organizar melhor as chamadas das funções** 
